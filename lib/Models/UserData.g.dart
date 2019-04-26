@@ -22,7 +22,12 @@ UserData _$UserDataFromJson(Map<String, dynamic> json) {
     )
     ..preferences = json['Preferences'] == null
         ? null
-        : Preferences.fromJson(json['Preferences'] as Map<String, dynamic>);
+        : Preferences.fromJson(json['Preferences'] as Map<String, dynamic>)
+    ..schedule = (json['Schedule'] as List)
+        ?.map((e) => e == null
+            ? null
+            : Recommendation.fromJson(e as Map<String, dynamic>))
+        ?.toList();
 }
 
 Map<String, dynamic> _$UserDataToJson(UserData instance) => <String, dynamic>{
@@ -30,7 +35,8 @@ Map<String, dynamic> _$UserDataToJson(UserData instance) => <String, dynamic>{
       'Facebook': instance.facebook,
       'Subscription': instance.subscription,
       'Limits': instance.limits,
-      'Preferences': instance.preferences
+      'Preferences': instance.preferences,
+      'Schedule': instance.schedule
     };
 
 Subscription _$SubscriptionFromJson(Map<String, dynamic> json) {

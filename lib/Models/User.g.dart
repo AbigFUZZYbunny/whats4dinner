@@ -17,7 +17,10 @@ User _$UserFromJson(Map<String, dynamic> json) {
           : DateTime.parse(json['ModifiedDate'] as String),
       (json['PlatformType'] as List)?.map((e) => e as String)?.toList(),
       json['GoogleId'] as String,
-      json['FacebookId'] as String);
+      json['FacebookId'] as String)
+    ..userData = json['UserData'] == null
+        ? null
+        : UserData.fromJson(json['UserData'] as Map<String, dynamic>);
 }
 
 Map<String, dynamic> _$UserToJson(User instance) => <String, dynamic>{
@@ -26,5 +29,6 @@ Map<String, dynamic> _$UserToJson(User instance) => <String, dynamic>{
       'ModifiedDate': instance.modifiedDate?.toIso8601String(),
       'PlatformType': instance.platformType,
       'GoogleId': instance.googleId,
-      'FacebookId': instance.facebookId
+      'FacebookId': instance.facebookId,
+      'UserData': instance.userData
     };
