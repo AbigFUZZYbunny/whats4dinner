@@ -779,12 +779,12 @@
 				}
 			},
 			{
-				"ItemType": "Restaraunt",
+				"ItemType": "Restaurant",
 				"Date": "2019-11-03T00:00:00.000Z",
 				"MealType": "Lunch",
 				"Index": 1,
 				"Completed": false,
-				"Restaraunt": {
+				"Restaurant": {
 					"Id": "17593250",
 					"Name": "Lucille's Smokehouse BBQ",
 					"URL": "https://www.zomato.com/inland-empire/lucilles-smokehouse-bbq-rancho-cucamonga?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",

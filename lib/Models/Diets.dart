@@ -6,21 +6,21 @@ part 'Diets.g.dart';
 
 class Diets{
   @JsonKey(name: 'GlutenFree')
-  double glutenFree;
+  bool glutenFree;
   @JsonKey(name: 'Keto')
-  double keto;
+  bool keto;
   @JsonKey(name: 'Paleo')
-  double paleo;
+  bool paleo;
   @JsonKey(name: 'Pescatarian')
-  double pescatarian;
+  bool pescatarian;
   @JsonKey(name: 'Primal')
-  double primal;
+  bool primal;
   @JsonKey(name: 'Vegan')
-  double vegan;
+  bool vegan;
   @JsonKey(name: 'Vegetarian')
-  double vegetarian;
+  bool vegetarian;
   @JsonKey(name: 'Whole30')
-  double whole30;
+  bool whole30;
 
   Diets(this.glutenFree, this.keto, this.paleo, this.pescatarian, this.primal, this.vegan, this.vegetarian, this.whole30);
 
