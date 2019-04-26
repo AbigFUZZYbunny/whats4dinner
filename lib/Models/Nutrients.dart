@@ -28,7 +28,7 @@ class Nutrients{
   @JsonKey(name: 'Fluoride')
   double fluoride;
   @JsonKey(name: 'SaturatedFat')
-  double saturated_fat;
+  double saturatedFat;
   @JsonKey(name: 'VitaminA')
   double vitaminA;
   @JsonKey(name: 'VitaminC')
@@ -56,7 +56,7 @@ class Nutrients{
   @JsonKey(name: 'Folate')
   double folate;
   @JsonKey(name: 'FolicAcid')
-  double folic_acid;
+  double folicAcid;
   @JsonKey(name: 'Iodine')
   double iodine;
   @JsonKey(name: 'Iron')
@@ -78,7 +78,7 @@ class Nutrients{
   @JsonKey(name: 'Zinc')
   double zinc;
 
-  Nutrients(this.calories, this.fat, this.protein, this.carbs, this.alcohol, this.caffeine, this.copper, this.calcium, this.choline, this.cholesterol, this.fluoride, this.saturated_fat, this.vitaminA, this.vitaminC, this.vitaminD, this.vitaminE, this.vitaminK, this.vitaminB1, this.vitaminB2, this.vitaminB3, this.vitaminB5, this.vitaminB6, this.vitaminB12, this.fiber, this.folate, this.folic_acid, this.iodine, this.iron, this.magnesium, this.manganese, this.phosphorous, this.potassium, this.selenium, this.sodium, this.sugar, this.zinc);
+  Nutrients(this.calories, this.fat, this.protein, this.carbs, this.alcohol, this.caffeine, this.copper, this.calcium, this.choline, this.cholesterol, this.fluoride, this.saturatedFat, this.vitaminA, this.vitaminC, this.vitaminD, this.vitaminE, this.vitaminK, this.vitaminB1, this.vitaminB2, this.vitaminB3, this.vitaminB5, this.vitaminB6, this.vitaminB12, this.fiber, this.folate, this.folicAcid, this.iodine, this.iron, this.magnesium, this.manganese, this.phosphorous, this.potassium, this.selenium, this.sodium, this.sugar, this.zinc);
 
   factory Nutrients.fromJson(Map<String, dynamic> json) => _$NutrientsFromJson(json);
 

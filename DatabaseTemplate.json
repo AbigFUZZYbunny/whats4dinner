@@ -1,0 +1,1094 @@
+{
+	"Id": "daf417da-8287-4d4b-a300-e796888ead22",	
+	"CreateDate": "2018-11-03T00:00:00.000Z",
+	"LastLoginDate": "2019-04-10T00:00:00.000Z",
+	"PlatformType": ["Dev"],
+	"GoogleId": "998-528-9045",
+	"FacebookId": "674142854",
+	"UserData":{
+		"Google":{
+			"Email": "cconaway9@gmail.com",
+			"ProfilePicture": "https://lh3.googleusercontent.com/-7kAHs1Z3_50/TkQe5E8qxfI/AAAAAAAAAGI/BuSsv15MBnk97YerBG5TpVUsPVS3FTajwCEwYBhgL/w139-h140-p/11%2B-%2B4",
+			"Name": "Curtis Conaway"
+		},
+		"Facebook":{
+			"FirstName": "Curtis",
+			"LastName": "Conaway",
+			"Name": "Curtis Conaway",
+			"Picture": "https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-1/c0.0.160.160a/p160x160/28660696_10156230155207855_677562361483477902_n.jpg?_nc_cat=106&_nc_ht=scontent-lax3-1.xx&oh=bb8acac02e4ff0f724ba582f68c6ffb9&oe=5D429224"
+		},
+		"Subscription":[
+			{
+				"SubscriptionLevel": 0,
+				"StartDate": "1900-01-01T00:00:00.000Z",
+				"EndDate": "1900-01-01T00:00:00.000Z"
+			}
+		],
+		"Limits":{
+			"RandomMealCalls": 30,
+			"RandomRestarauntCalls": 30
+		},
+		"Preferences":{
+			"Allergies": {
+			  "Dairy": false,
+			  "Egg": false,
+			  "Gluten": false,
+			  "Grain": false,
+			  "Peanut": false,
+			  "Seafood": true,
+			  "Sesame": false,
+			  "Shellfish": true,
+			  "Soy": false,
+			  "Sulfite": false,
+			  "TreeNut": false,
+			  "Wheat": false
+			},
+			"Diets": {
+			  "GlutenFree": false,
+			  "Keto": false,
+			  "Paleo": false,
+			  "Pescatarian": false,
+			  "Primal": false,
+			  "Vegan": false,
+			  "Vegetarian": false,
+			  "Whole30": false
+			},
+			"Nutrition": {
+			  "MealNutrientsMin": {
+				"Calories": 0,
+				"Fat": 0,
+				"Protein": 0,
+				"Carbs": 0,
+				"Alcohol": 0,
+				"Caffeine": 0,
+				"Copper": 0,
+				"Calcium": 0,
+				"Choline": 0,
+				"Cholesterol": 0,
+				"Fluoride": 0,
+				"SaturatedFat": 0,
+				"VitaminA": 0,
+				"VitaminC": 0,
+				"VitaminD": 0,
+				"VitaminE": 0,
+				"VitaminK": 0,
+				"VitaminB1": 0,
+				"VitaminB2": 0,
+				"VitaminB3": 0,
+				"VitaminB5": 0,
+				"VitaminB6": 0,
+				"VitaminB12": 0,
+				"Fiber": 0,
+				"Folate": 0,
+				"FolicAcid": 0,
+				"Iodine": 0,
+				"Iron": 0,
+				"Magnesium": 0,
+				"Manganese": 0,
+				"Phosphorous": 0,
+				"Potassium": 0,
+				"Selenium": 0,
+				"Sodium": 0,
+				"Sugar": 0,
+				"Zinc": 0
+			  },
+			  "MealNutrientsMax": {
+				"Calories": 0,
+				"Fat": 0,
+				"Protein": 0,
+				"Carbs": 0,
+				"Alcohol": 0,
+				"Caffeine": 0,
+				"Copper": 0,
+				"Calcium": 0,
+				"Choline": 0,
+				"Cholestorol": 0,
+				"Fluoride": 0,
+				"SaturatedFat": 0,
+				"VitaminA": 0,
+				"VitaminC": 0,
+				"VitaminD": 0,
+				"VitaminE": 0,
+				"VitaminK": 0,
+				"VitaminB1": 0,
+				"VitaminB2": 0,
+				"VitaminB3": 0,
+				"VitaminB5": 0,
+				"VitaminB6": 0,
+				"VitaminB12": 0,
+				"Fiber": 0,
+				"Folate": 0,
+				"FolicAcid": 0,
+				"Iodine": 0,
+				"Iron": 0,
+				"Magnesium": 0,
+				"Manganese": 0,
+				"Phosphorous": 0,
+				"Potassium": 0,
+				"Selenium": 0,
+				"Sodium": 0,
+				"Sugar": 0,
+				"Zinc": 0
+			  },
+			  "BreakfastNutrientsMin": {
+				"Calories": 0,
+				"Fat": 0,
+				"Protein": 0,
+				"Carbs": 0,
+				"Alcohol": 0,
+				"Caffeine": 0,
+				"Copper": 0,
+				"Calcium": 0,
+				"Choline": 0,
+				"Cholestorol": 0,
+				"Fluoride": 0,
+				"SaturatedFat": 0,
+				"VitaminA": 0,
+				"VitaminC": 0,
+				"VitaminD": 0,
+				"VitaminE": 0,
+				"VitaminK": 0,
+				"VitaminB1": 0,
+				"VitaminB2": 0,
+				"VitaminB3": 0,
+				"VitaminB5": 0,
+				"VitaminB6": 0,
+				"VitaminB12": 0,
+				"Fiber": 0,
+				"Folate": 0,
+				"FolicAcid": 0,
+				"Iodine": 0,
+				"Iron": 0,
+				"Magnesium": 0,
+				"Manganese": 0,
+				"Phosphorous": 0,
+				"Potassium": 0,
+				"Selenium": 0,
+				"Sodium": 0,
+				"Sugar": 0,
+				"Zinc": 0
+			  },
+			  "BreakfastNutrientsMax": {
+				"Calories": 0,
+				"Fat": 0,
+				"Protein": 0,
+				"Carbs": 0,
+				"Alcohol": 0,
+				"Caffeine": 0,
+				"Copper": 0,
+				"Calcium": 0,
+				"Choline": 0,
+				"Cholestorol": 0,
+				"Fluoride": 0,
+				"SaturatedFat": 0,
+				"VitaminA": 0,
+				"VitaminC": 0,
+				"VitaminD": 0,
+				"VitaminE": 0,
+				"VitaminK": 0,
+				"VitaminB1": 0,
+				"VitaminB2": 0,
+				"VitaminB3": 0,
+				"VitaminB5": 0,
+				"VitaminB6": 0,
+				"VitaminB12": 0,
+				"Fiber": 0,
+				"Folate": 0,
+				"FolicAcid": 0,
+				"Iodine": 0,
+				"Iron": 0,
+				"Magnesium": 0,
+				"Manganese": 0,
+				"Phosphorous": 0,
+				"Potassium": 0,
+				"Selenium": 0,
+				"Sodium": 0,
+				"Sugar": 0,
+				"Zinc": 0
+			  },
+			  "LunchNutrientsMin": {
+				"Calories": 0,
+				"Fat": 0,
+				"Protein": 0,
+				"Carbs": 0,
+				"Alcohol": 0,
+				"Caffeine": 0,
+				"Copper": 0,
+				"Calcium": 0,
+				"Choline": 0,
+				"Cholestorol": 0,
+				"Fluoride": 0,
+				"SaturatedFat": 0,
+				"VitaminA": 0,
+				"VitaminC": 0,
+				"VitaminD": 0,
+				"VitaminE": 0,
+				"VitaminK": 0,
+				"VitaminB1": 0,
+				"VitaminB2": 0,
+				"VitaminB3": 0,
+				"VitaminB5": 0,
+				"VitaminB6": 0,
+				"VitaminB12": 0,
+				"Fiber": 0,
+				"Folate": 0,
+				"FolicAcid": 0,
+				"Iodine": 0,
+				"Iron": 0,
+				"Magnesium": 0,
+				"Manganese": 0,
+				"Phosphorous": 0,
+				"Potassium": 0,
+				"Selenium": 0,
+				"Sodium": 0,
+				"Sugar": 0,
+				"Zinc": 0
+			  },
+			  "LunchNutrientsMax": {
+				"Calories": 0,
+				"Fat": 0,
+				"Protein": 0,
+				"Carbs": 0,
+				"Alcohol": 0,
+				"Caffeine": 0,
+				"Copper": 0,
+				"Calcium": 0,
+				"Choline": 0,
+				"Cholestorol": 0,
+				"Fluoride": 0,
+				"SaturatedFat": 0,
+				"VitaminA": 0,
+				"VitaminC": 0,
+				"VitaminD": 0,
+				"VitaminE": 0,
+				"VitaminK": 0,
+				"VitaminB1": 0,
+				"VitaminB2": 0,
+				"VitaminB3": 0,
+				"VitaminB5": 0,
+				"VitaminB6": 0,
+				"VitaminB12": 0,
+				"Fiber": 0,
+				"Folate": 0,
+				"FolicAcid": 0,
+				"Iodine": 0,
+				"Iron": 0,
+				"Magnesium": 0,
+				"Manganese": 0,
+				"Phosphorous": 0,
+				"Potassium": 0,
+				"Selenium": 0,
+				"Sodium": 0,
+				"Sugar": 0,
+				"Zinc": 0
+			  },
+			  "DinnerNutrientsMin": {
+				"Calories": 0,
+				"Fat": 0,
+				"Protein": 0,
+				"Carbs": 0,
+				"Alcohol": 0,
+				"Caffeine": 0,
+				"Copper": 0,
+				"Calcium": 0,
+				"Choline": 0,
+				"Cholestorol": 0,
+				"Fluoride": 0,
+				"SaturatedFat": 0,
+				"VitaminA": 0,
+				"VitaminC": 0,
+				"VitaminD": 0,
+				"VitaminE": 0,
+				"VitaminK": 0,
+				"VitaminB1": 0,
+				"VitaminB2": 0,
+				"VitaminB3": 0,
+				"VitaminB5": 0,
+				"VitaminB6": 0,
+				"VitaminB12": 0,
+				"Fiber": 0,
+				"Folate": 0,
+				"FolicAcid": 0,
+				"Iodine": 0,
+				"Iron": 0,
+				"Magnesium": 0,
+				"Manganese": 0,
+				"Phosphorous": 0,
+				"Potassium": 0,
+				"Selenium": 0,
+				"Sodium": 0,
+				"Sugar": 0,
+				"Zinc": 0
+			  },
+			  "DinnerNutrientsMax": {
+				"Calories": 0,
+				"Fat": 0,
+				"Protein": 0,
+				"Carbs": 0,
+				"Alcohol": 0,
+				"Caffeine": 0,
+				"Copper": 0,
+				"Calcium": 0,
+				"Choline": 0,
+				"Cholestorol": 0,
+				"Fluoride": 0,
+				"SaturatedFat": 0,
+				"VitaminA": 0,
+				"VitaminC": 0,
+				"VitaminD": 0,
+				"VitaminE": 0,
+				"VitaminK": 0,
+				"VitaminB1": 0,
+				"VitaminB2": 0,
+				"VitaminB3": 0,
+				"VitaminB5": 0,
+				"VitaminB6": 0,
+				"VitaminB12": 0,
+				"Fiber": 0,
+				"Folate": 0,
+				"FolicAcid": 0,
+				"Iodine": 0,
+				"Iron": 0,
+				"Magnesium": 0,
+				"Manganese": 0,
+				"Phosphorous": 0,
+				"Potassium": 0,
+				"Selenium": 0,
+				"Sodium": 0,
+				"Sugar": 0,
+				"Zinc": 0
+			  },
+			  "DailyNutrientsMin": {
+				"Calories": 0,
+				"Fat": 0,
+				"Protein": 0,
+				"Carbs": 0,
+				"Alcohol": 0,
+				"Caffeine": 0,
+				"Copper": 0,
+				"Calcium": 0,
+				"Choline": 0,
+				"Cholestorol": 0,
+				"Fluoride": 0,
+				"SaturatedFat": 0,
+				"VitaminA": 0,
+				"VitaminC": 0,
+				"VitaminD": 0,
+				"VitaminE": 0,
+				"VitaminK": 0,
+				"VitaminB1": 0,
+				"VitaminB2": 0,
+				"VitaminB3": 0,
+				"VitaminB5": 0,
+				"VitaminB6": 0,
+				"VitaminB12": 0,
+				"Fiber": 0,
+				"Folate": 0,
+				"FolicAcid": 0,
+				"Iodine": 0,
+				"Iron": 0,
+				"Magnesium": 0,
+				"Manganese": 0,
+				"Phosphorous": 0,
+				"Potassium": 0,
+				"Selenium": 0,
+				"Sodium": 0,
+				"Sugar": 0,
+				"Zinc": 0
+			  },
+			  "DailyNutrientsMax": {
+				"Calories": 0,
+				"Fat": 0,
+				"Protein": 0,
+				"Carbs": 0,
+				"Alcohol": 0,
+				"Caffeine": 0,
+				"Copper": 0,
+				"Calcium": 0,
+				"Choline": 0,
+				"Cholestorol": 0,
+				"Fluoride": 0,
+				"SaturatedFat": 0,
+				"VitaminA": 0,
+				"VitaminC": 0,
+				"VitaminD": 0,
+				"VitaminE": 0,
+				"VitaminK": 0,
+				"VitaminB1": 0,
+				"VitaminB2": 0,
+				"VitaminB3": 0,
+				"VitaminB5": 0,
+				"VitaminB6": 0,
+				"VitaminB12": 0,
+				"Fiber": 0,
+				"Folate": 0,
+				"FolicAcid": 0,
+				"Iodine": 0,
+				"Iron": 0,
+				"Magnesium": 0,
+				"Manganese": 0,
+				"Phosphorous": 0,
+				"Potassium": 0,
+				"Selenium": 0,
+				"Sodium": 0,
+				"Sugar": 0,
+				"Zinc": 0
+			  }
+			},
+			"Ingredients": {
+			  "PreferredIngredients": [
+				{
+					"Id": 10042040,
+					"Name": "grenadine",
+					"Image": "grenadine.jpg"
+				}
+			  ],
+			  "IgnoredIngredients": [
+				{
+					"Id": 93653,
+					"Name": "bitters",
+					"Image": "bitters.jpg"
+				}
+			  ]
+			}
+		},
+		"Groceries":{
+			"ShoppingList":[
+				{
+					"Id": "99075",
+					"Name": "chocolate protein powder",
+					"Image": "https://spoonacular.com/cdn/ingredients_100x100/chocolate-protein-powder.jpg",
+					"Amount": 2,
+					"UnitShort": "Tbsp",
+					"Aisle": "Health Foods"
+				},
+				{
+					"Id": "19165",
+					"Name": "cocoa powder",
+					"Image": "https://spoonacular.com/cdn/ingredients_100x100/cocoa-powder.png",
+					"Amount": 0.5,
+					"UnitShort": "Tbsp",
+					"Aisle": "Baking"
+				},
+				{
+					"Id": "1124",
+					"Name": "egg whites",
+					"Image": "https://spoonacular.com/cdn/ingredients_100x100/egg-white.jpg",
+					"Amount": 2,
+					"UnitShort": "units",
+					"Aisle": "Milk, Eggs, Other Dairy"
+				},
+				{
+					"Id": "18075",
+					"Name": "multi grain bread",
+					"Image": "https://spoonacular.com/cdn/ingredients_100x100/multigrain-bread.png",
+					"Amount": 3,
+					"UnitShort": "slices",
+					"Aisle": "Bakery/Bread"
+				},
+				{
+					"Id": "12220",
+					"Name": "ground flaxseed",
+					"Image": "https://spoonacular.com/cdn/ingredients_100x100/flax-seeds.png",
+					"Amount": 1,
+					"UnitShort": "Tbsp",
+					"Aisle": "Health Foods;Baking"
+				},
+				{
+					"Id": "19297",
+					"Name": "jam",
+					"Image": "https://spoonacular.com/cdn/ingredients_100x100/strawberry-jam.png",
+					"Amount": 1,
+					"UnitShort": "Tbsp",
+					"Aisle": "Nut butters, Jams, and Honey"
+				},
+				{
+					"Id": "16098",
+					"Name": "peanut butter",
+					"Image": "https://spoonacular.com/cdn/ingredients_100x100/peanut-butter.png",
+					"Amount": 1,
+					"UnitShort": "Tbsp",
+					"Aisle": "Nut butters, Jams, and Honey"
+				}
+			],
+			"Stock":[
+				{
+					"Id": "16098",
+					"Name": "peanut butter",
+					"Image": "https://spoonacular.com/cdn/ingredients_100x100/peanut-butter.png",
+					"Amount": 1,
+					"UnitShort": "Tbsp",
+					"Aisle": "Nut butters, Jams, and Honey"
+				}
+			]
+		},
+		"Schedule": [
+			{
+				"ItemType": "Recipe",			
+				"Date": "2019-11-03T00:00:00.000Z",
+				"MealType": "Dinner",
+				"Index": 0,
+				"Completed": false,
+				"Recipe": {
+					"Id": "613300",
+					"Name": "PB + C + J Protein French Toast (gluten free!)",
+					"SourceName": "Nutritionist in the Kitchen",
+					"CreditText": "Nutritionist in the Kitchen",
+					"SourceURL": "http://www.nutritionistinthekitch.com/2014/09/24/pb-c-j-protein-french-toast-gluten-free/",
+					"PreparationMinutes": 5,
+					"CookingMinutes": 10,
+					"ReadyInMinutes": 15,
+					"Servings": 1,
+					"Image": "https://spoonacular.com/recipeImages/613300-312x231.jpg",
+					"ImageType": "jpg",
+					"VeryHealthy": true,
+					"VeryPopular": false,
+					"AggregateLikes": 50,
+					"SpoonacularScore": 100,
+					"HealthScore": 100,
+					"PricePerServing": 1.4998,				
+					"Cuisine":[
+						"american"
+					], 
+					"DishType":[
+						"lunch",
+						"main course",
+						"main dish",
+						"dinner"
+					],
+					"Diets": {
+					  "GlutenFree": true,
+					  "Keto": false,
+					  "Paleo": false,
+					  "Pescatarian": false,
+					  "Primal": false,
+					  "Vegan": false,
+					  "Vegetarian": false,
+					  "Whole30": false
+					},
+					"Allergens":{
+						"Dairy": true,
+						"Egg": false,
+						"Gluten": true,
+						"Grain": false,
+						"Peanut": false,
+						"Seafood": false,
+						"Sesame": false,
+						"Shellfish": false,
+						"Soy": false,
+						"Sulfite": false,
+						"TreeNut": false,
+						"Wheat": false
+					},
+					"Nutrition":{
+						"Calories": 325,
+						"Fat": 13,
+						"Protein": 29,
+						"Carbs": 30,
+						"Alcohol": 0,
+						"Caffeine": 0,
+						"Copper": 0,
+						"Calcium": 0,
+						"Choline": 0,
+						"Cholestorol": 0,
+						"Fluoride": 0,
+						"SaturatedFat": 0,
+						"VitaminA": 0,
+						"VitaminC": 0,
+						"VitaminD": 0,
+						"VitaminE": 0,
+						"VitaminK": 0,
+						"VitaminB1": 0,
+						"VitaminB2": 0,
+						"VitaminB3": 0,
+						"VitaminB5": 0,
+						"VitaminB6": 0,
+						"VitaminB12": 0,
+						"Fiber": 0,
+						"Folate": 0,
+						"FolicAcid": 0,
+						"Iodine": 0,
+						"Iron": 0,
+						"Magnesium": 0,
+						"Manganese": 0,
+						"Phosphorous": 0,
+						"Potassium": 0,
+						"Selenium": 0,
+						"Sodium": 0,
+						"Sugar": 0,
+						"Zinc": 0
+					},
+					"Ingredients":[
+						{
+							"Id": "99075",
+							"Name": "chocolate protein powder",
+							"Image": "https://spoonacular.com/cdn/ingredients_100x100/chocolate-protein-powder.jpg",
+							"Amount": 2,
+							"UnitShort": "Tbsp",
+							"Aisle": "Health Foods"
+						},
+						{
+							"Id": "19165",
+							"Name": "cocoa powder",
+							"Image": "https://spoonacular.com/cdn/ingredients_100x100/cocoa-powder.png",
+							"Amount": 0.5,
+							"UnitShort": "Tbsp",
+							"Aisle": "Baking"
+						},
+						{
+							"Id": "1124",
+							"Name": "egg whites",
+							"Image": "https://spoonacular.com/cdn/ingredients_100x100/egg-white.jpg",
+							"Amount": 2,
+							"UnitShort": "units",
+							"Aisle": "Milk, Eggs, Other Dairy"
+						},
+						{
+							"Id": "18075",
+							"Name": "multi grain bread",
+							"Image": "https://spoonacular.com/cdn/ingredients_100x100/multigrain-bread.png",
+							"Amount": 3,
+							"UnitShort": "slices",
+							"Aisle": "Bakery/Bread"
+						},
+						{
+							"Id": "12220",
+							"Name": "ground flaxseed",
+							"Image": "https://spoonacular.com/cdn/ingredients_100x100/flax-seeds.png",
+							"Amount": 1,
+							"UnitShort": "Tbsp",
+							"Aisle": "Health Foods;Baking"
+						},
+						{
+							"Id": "19297",
+							"Name": "jam",
+							"Image": "https://spoonacular.com/cdn/ingredients_100x100/strawberry-jam.png",
+							"Amount": 1,
+							"UnitShort": "Tbsp",
+							"Aisle": "Nut butters, Jams, and Honey"
+						},
+						{
+							"Id": "16098",
+							"Name": "peanut butter",
+							"Image": "https://spoonacular.com/cdn/ingredients_100x100/peanut-butter.png",
+							"Amount": 1,
+							"UnitShort": "Tbsp",
+							"Aisle": "Nut butters, Jams, and Honey"
+						},
+						{
+							"Id": "14412",
+							"Name": "water",
+							"Image": "https://spoonacular.com/cdn/ingredients_100x100/water.png",
+							"Amount": 1,
+							"UnitShort": "Tbsp",
+							"Aisle": "Beverages"
+						}
+					],
+					"Equipment":[
+						{
+							"Id": "404783",
+							"Name": "bowl",
+							"Image": "https://spoonacular.com/cdn/equipment_100x100/bowl.jpg"
+						},
+						{
+							"Id": "404645",
+							"Name": "frying pan",
+							"Image": "https://spoonacular.com/cdn/equipment_100x100/pan.jpg"
+						}						
+					],
+					"Instructions":[
+						{
+							"Number": 1,
+							"Text": "In a bowl combine egg whites, cocoa, protein, water, and flax and stir until a smooth consistency is reached.On a large plate line up the pieces of bread.",
+							"Ingredients": [
+								{
+									"Id": "1124",
+									"Name": "egg whites",
+									"Image": "https://spoonacular.com/cdn/ingredients_100x100/egg-white.jpg",
+									"Amount": 2,
+									"UnitShort": "units",
+									"Aisle": "Milk, Eggs, Other Dairy"
+								},
+								{
+									"Id": "19165",
+									"Name": "cocoa powder",
+									"Image": "https://spoonacular.com/cdn/ingredients_100x100/cocoa-powder.png",
+									"Amount": 0.5,
+									"UnitShort": "Tbsp",
+									"Aisle": "Baking"
+								},
+								{
+									"Id": "14412",
+									"Name": "water",
+									"Image": "https://spoonacular.com/cdn/ingredients_100x100/water.png",
+									"Amount": 1,
+									"UnitShort": "Tbsp",
+									"Aisle": "Beverages"
+								},
+								{
+									"Id": "12220",
+									"Name": "ground flaxseed",
+									"Image": "https://spoonacular.com/cdn/ingredients_100x100/flax-seeds.png",
+									"Amount": 1,
+									"UnitShort": "Tbsp",
+									"Aisle": "Health Foods;Baking"
+								}
+							],
+							"Equipment": [
+							  {
+								"Id": "404783",
+								"Name": "bowl",
+								"Image": "https://spoonacular.com/cdn/equipment_100x100/bowl.jpg"
+							  }
+							]
+						},
+						{
+							"Number": 2,
+							"Text": "Pour half of the mixture evenly over each piece of bread and spread over to cover each slice evenly."
+						},
+						{
+							"Number": 3,
+							"Text": "Let the mixture soak in for a minute or two and flip each piece and repeat with the remaining cocoa mixture on the other side of each piece of bread."						
+						},
+						{
+							"Number": 4,
+							"Text": "Heat a non-stick pan at medium heat, once hot, add in 1 piece of the soaked bread and let cook for 1-2 minutes, then flip and cook for 1-2 minutes more. Repeat with each slice of soaked bread.You may need to scoop the excess cocoa mixture back onto the bread if it hasn't soaked in.Stack your bread and serve with nut butter and jam!Enjoy!",
+							"Ingredients": [
+								{
+									"Id": "19297",
+									"Name": "jam",
+									"Image": "https://spoonacular.com/cdn/ingredients_100x100/strawberry-jam.png",
+									"Amount": 1,
+									"UnitShort": "Tbsp",
+									"Aisle": "Nut butters, Jams, and Honey"
+								}
+							],
+							"Equipment": [
+							  {
+								"Id": "404645",
+								"Name": "frying pan",
+								"Image": "https://spoonacular.com/cdn/equipment_100x100/pan.png"
+							  }
+							],
+							"Length": {
+							  "Number": 4,
+							  "Unit": "minutes"
+							}
+						}
+					]
+				}
+			},
+			{
+				"ItemType": "Restaraunt",
+				"Date": "2019-11-03T00:00:00.000Z",
+				"MealType": "Lunch",
+				"Index": 1,
+				"Completed": false,
+				"Restaraunt": {
+					"Id": "17593250",
+					"Name": "Lucille's Smokehouse BBQ",
+					"URL": "https://www.zomato.com/inland-empire/lucilles-smokehouse-bbq-rancho-cucamonga?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+					"Location": {
+					  "Address": "12624 N Mainstreet 91739",
+					  "Locality": "Rancho Cucamonga",
+					  "City": "Inland Empire",
+					  "ZomatoCityId": 520,
+					  "Latitude": "34.1122530000",
+					  "Longitude": "-117.5303590000",
+					  "ZipCode": "91739",
+					  "CountryId": 216
+					},
+					"Cuisines": [
+					  "BBQ, Southern"
+					],
+					"AvgCostForTwo": 40,
+					"PriceRange": 3,
+					"Currency": "$",
+					"PhotosURL": "https://www.zomato.com/inland-empire/lucilles-smokehouse-bbq-rancho-cucamonga/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+					"MenuURL": "https://www.zomato.com/inland-empire/lucilles-smokehouse-bbq-rancho-cucamonga/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+					"OpenTableSupport": 0
+				}			
+			}
+		],
+		"Favorites": [
+			{
+				"ItemType": "Recipe",
+				"Recipe": {
+					"Id": "613300",
+					"Name": "PB + C + J Protein French Toast (gluten free!)",
+					"SourceName": "Nutritionist in the Kitchen",
+					"CreditText": "Nutritionist in the Kitchen",
+					"SourceURL": "http://www.nutritionistinthekitch.com/2014/09/24/pb-c-j-protein-french-toast-gluten-free/",
+					"PreparationMinutes": 5,
+					"CookingMinutes": 10,
+					"ReadyInMinutes": 15,
+					"Servings": 1,
+					"Image": "https://spoonacular.com/recipeImages/613300-312x231.jpg",
+					"ImageType": "jpg",
+					"VeryHealthy": true,
+					"VeryPopular": false,
+					"AggregateLikes": 50,
+					"SpoonacularScore": 100,
+					"HealthScore": 100,
+					"PricePerServing": 1.4998,
+					"Cuisine":[
+						"american"
+					], 
+					"DishType":[
+						"lunch",
+						"main course",
+						"main dish",
+						"dinner"
+					],
+					"Diets": {
+					  "GlutenFree": true,
+					  "Keto": false,
+					  "Paleo": false,
+					  "Pescatarian": false,
+					  "Primal": false,
+					  "Vegan": false,
+					  "Vegetarian": false,
+					  "Whole30": false
+					},
+					"Allergens":{
+						"Dairy": true,
+						"Egg": false,
+						"Gluten": true,
+						"Grain": false,
+						"Peanut": false,
+						"Seafood": false,
+						"Sesame": false,
+						"Shellfish": false,
+						"Soy": false,
+						"Sulfite": false,
+						"TreeNut": false,
+						"Wheat": false
+					},
+					"Nutrition":{
+						"Calories": 325,
+						"Fat": 13,
+						"Protein": 29,
+						"Carbs": 30,
+						"Alcohol": 0,
+						"Caffeine": 0,
+						"Copper": 0,
+						"Calcium": 0,
+						"Choline": 0,
+						"Cholestorol": 0,
+						"Fluoride": 0,
+						"SaturatedFat": 0,
+						"VitaminA": 0,
+						"VitaminC": 0,
+						"VitaminD": 0,
+						"VitaminE": 0,
+						"VitaminK": 0,
+						"VitaminB1": 0,
+						"VitaminB2": 0,
+						"VitaminB3": 0,
+						"VitaminB5": 0,
+						"VitaminB6": 0,
+						"VitaminB12": 0,
+						"Fiber": 0,
+						"Folate": 0,
+						"FolicAcid": 0,
+						"Iodine": 0,
+						"Iron": 0,
+						"Magnesium": 0,
+						"Manganese": 0,
+						"Phosphorous": 0,
+						"Potassium": 0,
+						"Selenium": 0,
+						"Sodium": 0,
+						"Sugar": 0,
+						"Zinc": 0
+					},
+					"Ingredients":[
+						{
+							"Id": "99075",
+							"Name": "chocolate protein powder",
+							"Image": "https://spoonacular.com/cdn/ingredients_100x100/chocolate-protein-powder.jpg",
+							"Amount": 2,
+							"UnitShort": "Tbsp",
+							"Aisle": "Health Foods"
+						},
+						{
+							"Id": "19165",
+							"Name": "cocoa powder",
+							"Image": "https://spoonacular.com/cdn/ingredients_100x100/cocoa-powder.png",
+							"Amount": 0.5,
+							"UnitShort": "Tbsp",
+							"Aisle": "Baking"
+						},
+						{
+							"Id": "1124",
+							"Name": "egg whites",
+							"Image": "https://spoonacular.com/cdn/ingredients_100x100/egg-white.jpg",
+							"Amount": 2,
+							"UnitShort": "units",
+							"Aisle": "Milk, Eggs, Other Dairy"
+						},
+						{
+							"Id": "18075",
+							"Name": "multi grain bread",
+							"Image": "https://spoonacular.com/cdn/ingredients_100x100/multigrain-bread.png",
+							"Amount": 3,
+							"UnitShort": "slices",
+							"Aisle": "Bakery/Bread"
+						},
+						{
+							"Id": "12220",
+							"Name": "ground flaxseed",
+							"Image": "https://spoonacular.com/cdn/ingredients_100x100/flax-seeds.png",
+							"Amount": 1,
+							"UnitShort": "Tbsp",
+							"Aisle": "Health Foods;Baking"
+						},
+						{
+							"Id": "19297",
+							"Name": "jam",
+							"Image": "https://spoonacular.com/cdn/ingredients_100x100/strawberry-jam.png",
+							"Amount": 1,
+							"UnitShort": "Tbsp",
+							"Aisle": "Nut butters, Jams, and Honey"
+						},
+						{
+							"Id": "16098",
+							"Name": "peanut butter",
+							"Image": "https://spoonacular.com/cdn/ingredients_100x100/peanut-butter.png",
+							"Amount": 1,
+							"UnitShort": "Tbsp",
+							"Aisle": "Nut butters, Jams, and Honey"
+						},
+						{
+							"Id": "14412",
+							"Name": "water",
+							"Image": "https://spoonacular.com/cdn/ingredients_100x100/water.png",
+							"Amount": 1,
+							"UnitShort": "Tbsp",
+							"Aisle": "Beverages"
+						}
+					],
+					"Equipment":[
+						{
+							"Id": "404783",
+							"Name": "bowl",
+							"Image": "https://spoonacular.com/cdn/equipment_100x100/bowl.jpg"
+						},
+						{
+							"Id": "404645",
+							"Name": "frying pan",
+							"Image": "https://spoonacular.com/cdn/equipment_100x100/pan.jpg"
+						}						
+					],
+					"Instructions":[
+						{
+							"Number": 1,
+							"Text": "In a bowl combine egg whites, cocoa, protein, water, and flax and stir until a smooth consistency is reached.On a large plate line up the pieces of bread.",
+							"Ingredients": [
+								{
+									"Id": "1124",
+									"Name": "egg whites",
+									"Image": "https://spoonacular.com/cdn/ingredients_100x100/egg-white.jpg",
+									"Amount": 2,
+									"UnitShort": "units",
+									"Aisle": "Milk, Eggs, Other Dairy"
+								},
+								{
+									"Id": "19165",
+									"Name": "cocoa powder",
+									"Image": "https://spoonacular.com/cdn/ingredients_100x100/cocoa-powder.png",
+									"Amount": 0.5,
+									"UnitShort": "Tbsp",
+									"Aisle": "Baking"
+								},
+								{
+									"Id": "14412",
+									"Name": "water",
+									"Image": "https://spoonacular.com/cdn/ingredients_100x100/water.png",
+									"Amount": 1,
+									"UnitShort": "Tbsp",
+									"Aisle": "Beverages"
+								},
+								{
+									"Id": "12220",
+									"Name": "ground flaxseed",
+									"Image": "https://spoonacular.com/cdn/ingredients_100x100/flax-seeds.png",
+									"Amount": 1,
+									"UnitShort": "Tbsp",
+									"Aisle": "Health Foods;Baking"
+								}
+							],
+							"Equipment": [
+							  {
+								"Id": "404783",
+								"Name": "bowl",
+								"Image": "https://spoonacular.com/cdn/equipment_100x100/bowl.jpg"
+							  }
+							]
+						},
+						{
+							"Number": 2,
+							"Text": "Pour half of the mixture evenly over each piece of bread and spread over to cover each slice evenly."
+						},
+						{
+							"Number": 3,
+							"Text": "Let the mixture soak in for a minute or two and flip each piece and repeat with the remaining cocoa mixture on the other side of each piece of bread."						
+						},
+						{
+							"Number": 4,
+							"Text": "Heat a non-stick pan at medium heat, once hot, add in 1 piece of the soaked bread and let cook for 1-2 minutes, then flip and cook for 1-2 minutes more. Repeat with each slice of soaked bread.You may need to scoop the excess cocoa mixture back onto the bread if it hasn't soaked in.Stack your bread and serve with nut butter and jam!Enjoy!",
+							"Ingredients": [
+								{
+									"Id": "19297",
+									"Name": "jam",
+									"Image": "https://spoonacular.com/cdn/ingredients_100x100/strawberry-jam.png",
+									"Amount": 1,
+									"UnitShort": "Tbsp",
+									"Aisle": "Nut butters, Jams, and Honey"
+								}
+							],
+							"Equipment": [
+							  {
+								"Id": "404645",
+								"Name": "frying pan",
+								"Image": "https://spoonacular.com/cdn/equipment_100x100/pan.png"
+							  }
+							],
+							"Length": {
+							  "Number": 4,
+							  "Unit": "minutes"
+							}
+						}
+					]
+				}
+			},
+			{
+				"ItemType": "Restaraunt",
+				"Restaraunt": {
+					"Id": "17593250",
+					"Name": "Lucille's Smokehouse BBQ",
+					"URL": "https://www.zomato.com/inland-empire/lucilles-smokehouse-bbq-rancho-cucamonga?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+					"Location": {
+					  "Address": "12624 N Mainstreet 91739",
+					  "Locality": "Rancho Cucamonga",
+					  "City": "Inland Empire",
+					  "ZomatoCityId": 520,
+					  "Latitude": "34.1122530000",
+					  "Longitude": "-117.5303590000",
+					  "ZipCode": "91739",
+					  "CountryId": 216
+					},
+					"Cuisines": [
+					  "BBQ, Southern"
+					],
+					"AvgCostForTwo": 40,
+					"PriceRange": 3,
+					"Currency": "$",
+					"PhotosURL": "https://www.zomato.com/inland-empire/lucilles-smokehouse-bbq-rancho-cucamonga/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+					"MenuURL": "https://www.zomato.com/inland-empire/lucilles-smokehouse-bbq-rancho-cucamonga/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+					"OpenTableSupport": 0
+				}
+			}
+		]
+	}
+}
