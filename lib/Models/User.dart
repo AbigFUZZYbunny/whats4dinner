@@ -6,11 +6,17 @@ part 'User.g.dart';
 @JsonSerializable()
 
 class User {
+  @JsonKey(name: 'Id')
   String id;
+  @JsonKey(name: 'CreateDate')
   DateTime createDate;
+  @JsonKey(name: 'ModifiedDate')
   DateTime modifiedDate;
+  @JsonKey(name: 'PlatformType')
   List<String> platformType;
+  @JsonKey(name: 'GoogleId')
   String googleId;
+  @JsonKey(name: 'FacebookId')
   String facebookId;
 
   User(this.id, this.createDate, this.modifiedDate, this.platformType, this.googleId, this.facebookId);
