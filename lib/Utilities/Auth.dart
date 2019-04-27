@@ -17,8 +17,8 @@ Future<FirebaseUser> signIntoFirebase(
   FirebaseAuth _auth = FirebaseAuth.instance;
   GoogleSignInAuthentication googleAuth =
   await googleSignInAccount.authentication;
-  /*return await _auth.signInWithGoogle(
+  return await _auth.signInWithGoogle(
     accessToken: googleAuth.accessToken,
     idToken: googleAuth.idToken,
-  );*/
+  );
 }
